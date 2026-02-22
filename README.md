@@ -9,7 +9,7 @@ Um projeto criado com fins educativos e para treino de linguagem. Consiste em um
 ## Tecnologias
 * Linguagem: Python
 
-## Instalacao e Uso
+## Instalação e Uso
 1. Clone o repositório ou baixe os arquivos.
 2. O projeto não exige instalações externas, basta apenas executar o arquivo "main.py".
 
